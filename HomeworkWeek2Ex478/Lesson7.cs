@@ -58,6 +58,7 @@ namespace HomeworkWeek2Lesson478
 
             if (a < 0) Console.WriteLine($"{a} jest liczbą niedodatnią.");
             else if (a > 0) Console.WriteLine($"{a} jest liczbą nieujemną.");
+            else Console.WriteLine($"Liczba {a} jest zerem.");
         }
 
         public void Q4()
