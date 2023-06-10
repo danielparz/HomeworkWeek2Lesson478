@@ -10,7 +10,7 @@ namespace HomeworkWeek2Lesson478
     {
         public void Q1()
         {
-            //Napisz program w C#, który stworzy dwie zmienne int i sprawdzi czy są one równe czy nie. 
+            // Napisz program w C#, który stworzy dwie zmienne int i sprawdzi czy są one równe czy nie. 
             //    Dane testowe: a : 5 
             //    b : 5 
             //    Rezultat w terminalu :
@@ -28,7 +28,7 @@ namespace HomeworkWeek2Lesson478
 
         public void Q2()
         {
-            //Napisz program w C#, który sprawdzi czy podana przez użytkownika liczba jest parzysta czy nieparzysta.
+            // Napisz program w C#, który sprawdzi czy podana przez użytkownika liczba jest parzysta czy nieparzysta.
             //    Dane testowe : 15 
             //    Rezultat w terminalu : 
             //    15 jest liczbą nieparzystą
@@ -46,7 +46,7 @@ namespace HomeworkWeek2Lesson478
 
         public void Q3()
         {
-            //Napisz program w C#, który sprawdzi czy podana przez użytkownika liczba jest dodatnia czy ujemna. 
+            // Napisz program w C#, który sprawdzi czy podana przez użytkownika liczba jest dodatnia czy ujemna. 
             //    Dane testowe : 14 
             //    Rezultat w terminalu : 
             //    4 jest liczbą dodatnią
@@ -63,7 +63,7 @@ namespace HomeworkWeek2Lesson478
 
         public void Q4()
         {
-            //Napisz program w C#, który sprawdzi czy podany przez użytkownika rok jest rokiem przestępnym.
+            // Napisz program w C#, który sprawdzi czy podany przez użytkownika rok jest rokiem przestępnym.
             //    Dane testowe : 2016 
             //    Rezultat w terminalu : 
             //    2016 jest rokiem przestępnym
@@ -79,7 +79,7 @@ namespace HomeworkWeek2Lesson478
 
         public void Q5()
         {
-            //Napisz program w C#, który sprawdzi czy podany przez użytkownika wiek uprawnia go do ubiegania się 
+            // Napisz program w C#, który sprawdzi czy podany przez użytkownika wiek uprawnia go do ubiegania się 
             //    o stanowisko posła, premiera, sentarora, prezydenta. 
             //    Dane testowe : 21 
             //    Rezultat w terminalu : Możesz zostać posłem
@@ -105,7 +105,7 @@ namespace HomeworkWeek2Lesson478
 
         public void Q6()
         {
-            //Napisz program w C#, który pobierze wzrost użytkownika i przypisze mu wymyśloną kategorię wzrostu. 
+            // Napisz program w C#, który pobierze wzrost użytkownika i przypisze mu wymyśloną kategorię wzrostu. 
             //    Dane testowe : 140 
             //    Rezultat w terminalu : Jesteś krasnoludem
 
@@ -135,11 +135,11 @@ namespace HomeworkWeek2Lesson478
         public void Q7()
         {
             //    Napisz program w C#, który pobierze 3 liczby od użytkownika i sprawdzi, która jest największa
-            //Dane testowe:
+            // Dane testowe:
             //    25
             //    63
             //    79
-            //Rezultat w terminalu:
+            // Rezultat w terminalu:
             //    79 jest największa z podanych
 
             Console.WriteLine("Zad. 7");
@@ -165,18 +165,18 @@ namespace HomeworkWeek2Lesson478
         public void Q8()
         {
             //            Napisz program, który sprawdzi, czy kandydat może ubiegać się o miejsce
-            //na studiach wg. Następujących kryteriów:
-            //Wynik z Matury z matematyki powyżej 70
-            //Wynik z fizyki powyżej 55
-            //Wynik z chemii powyżej 45
-            //Łączny wynik z 3 przedmiotów powyżej 180
-            //Albo
-            //Wynik z matematyki i jednego przedmiotu powyżej 150
-            //Dane testowe:
-            //Matematyka 80
-            //Fizyka 71
-            //Chemia 0
-            //Rezultat w terminalu:
+            // na studiach wg. Następujących kryteriów:
+            // Wynik z Matury z matematyki powyżej 70
+            // Wynik z fizyki powyżej 55
+            // Wynik z chemii powyżej 45
+            // Łączny wynik z 3 przedmiotów powyżej 180
+            // Albo
+            // Wynik z matematyki i jednego przedmiotu powyżej 150
+            // Dane testowe:
+            // Matematyka 80
+            // Fizyka 71
+            // Chemia 0
+            // Rezultat w terminalu:
             //            Kandydat dopuszczony do rekrutacji
 
             Console.WriteLine("Zad. 8");
@@ -195,14 +195,14 @@ namespace HomeworkWeek2Lesson478
         public void Q9()
         {
             //            Napisz program, który odczyta temperature I zwróci nazwę jak wponiższych kryteriach
-            //Temp < 0 – cholerine piździ
-            //Temp 0 – 10 – zimno
-            //Temp 10 – 20 – chłodno
-            //Temp 20 – 30 – w sam raz
-            //Temp 30 – 40 – zaczyna być słabo, bo gorąco
-            //Temp >= 40 – a weź wyprowadzam się na alaskę.
-            //Dane testowe : 41
-            //Rezultat w terminalu:
+            // Temp < 0 – cholerine piździ
+            // Temp 0 – 10 – zimno
+            // Temp 10 – 20 – chłodno
+            // Temp 20 – 30 – w sam raz
+            // Temp 30 – 40 – zaczyna być słabo, bo gorąco
+            // Temp >= 40 – a weź wyprowadzam się na alaskę.
+            // Dane testowe : 41
+            // Rezultat w terminalu:
             //            a weź wyprowadzam się na alaskę.
 
             Console.WriteLine("Zad. 9");
@@ -227,9 +227,9 @@ namespace HomeworkWeek2Lesson478
         public void Q10()
         {
             //            Napisz program, który sprawdzi, czy z 3 podanych długości można
-            //stworzyć trójkąt
-            //Dane testowe: 40 55 65
-            //Rezultat w terminalu:
+            // stworzyć trójkąt
+            // Dane testowe: 40 55 65
+            // Rezultat w terminalu:
             //            Można zbudować trójkąt
 
             Console.WriteLine("Zad. 10");
@@ -287,10 +287,10 @@ namespace HomeworkWeek2Lesson478
 
         public void Q12()
         {
-            //Napisz program, który pobierze numer dnia tygodnia i wyświetli jego nazwę
-            //Dane testowe : 4
-            //Rezultat w terminalu:
-            //Czwartek
+            // Napisz program, który pobierze numer dnia tygodnia i wyświetli jego nazwę
+            // Dane testowe : 4
+            // Rezultat w terminalu:
+            // Czwartek
 
             Console.WriteLine("Zad. 12");
 
@@ -329,18 +329,18 @@ namespace HomeworkWeek2Lesson478
         public void Q13()
         {
             //            Napisz program, który będzie posiadał proste menu(wg.Wzoru poniżej) I
-            //będzie prostym kalkulatorem
-            //Podaj pierwszą liczbę:
-            //…
-            //Podaj drugą liczbę:
-            //…
-            //Podaj numer operacji do wykonania:
-            //1.Dodawanie
-            //2.Odejmowanie
-            //3.Mnożenie
-            //4.Dzielenie
-            //…
-            //Twój wynik to:
+            // będzie prostym kalkulatorem
+            // Podaj pierwszą liczbę:
+            // …
+            // Podaj drugą liczbę:
+            // …
+            // Podaj numer operacji do wykonania:
+            // 1.Dodawanie
+            // 2.Odejmowanie
+            // 3.Mnożenie
+            // 4.Dzielenie
+            // …
+            // Twój wynik to:
 
             Console.WriteLine("Zad. 13");
 

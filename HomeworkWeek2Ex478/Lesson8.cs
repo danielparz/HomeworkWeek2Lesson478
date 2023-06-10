@@ -10,7 +10,7 @@ namespace HomeworkWeek2Lesson478
     {
         public void Q1()
         {
-            //Napisz program, który sprawdzi ile jest liczb pierwszych w zakresie 0 – 100.
+            // Napisz program, który sprawdzi ile jest liczb pierwszych w zakresie 0 – 100.
 
             Console.WriteLine("Zad. 1");
 
@@ -34,7 +34,7 @@ namespace HomeworkWeek2Lesson478
 
         public void Q2()
         {
-            //Napisz program, w którym za pomocą pętli do…while znajdziesz wszystkie liczby parzyste z zakresu 0 – 1000.
+            // Napisz program, w którym za pomocą pętli do…while znajdziesz wszystkie liczby parzyste z zakresu 0 – 1000.
 
             Console.WriteLine("Zad. 2");
 
@@ -50,7 +50,7 @@ namespace HomeworkWeek2Lesson478
 
         public void Q3()
         {
-            //Napisz program, który zaimplementuje ciąg Fibonacciego i wyświetli go na ekranie.
+            // Napisz program, który zaimplementuje ciąg Fibonacciego i wyświetli go na ekranie.
 
             Console.WriteLine("Zad. 3");
 
@@ -63,7 +63,7 @@ namespace HomeworkWeek2Lesson478
 
         public void Q4()
         {
-            //Napisz program, który po podaniu liczby całkowitej wyświetli piramidę liczb od 1 do podanej liczby w formie jak poniżej: 
+            // Napisz program, który po podaniu liczby całkowitej wyświetli piramidę liczb od 1 do podanej liczby w formie jak poniżej: 
             //    1 
             //    2 3 
             //    4 5 6 
@@ -92,7 +92,7 @@ namespace HomeworkWeek2Lesson478
 
         public void Q5()
         {
-            //Napisz program, który dla liczb od 1 do 20 wyświetli na ekranie ich 3 potęgę.
+            // Napisz program, który dla liczb od 1 do 20 wyświetli na ekranie ich 3 potęgę.
 
             Console.WriteLine("Zad. 5");
 
@@ -103,8 +103,8 @@ namespace HomeworkWeek2Lesson478
         }
         public void Q6()
         {
-            //Napisz program, który dla liczb od 0 do 20 obliczy sumę wg wzoru:
-            //1 + ½ +1 / 3 + ¼ itd.
+            // Napisz program, który dla liczb od 0 do 20 obliczy sumę wg wzoru:
+            // 1 + ½ +1 / 3 + ¼ itd.
 
             Console.WriteLine("Zad. 6");
 
@@ -117,8 +117,8 @@ namespace HomeworkWeek2Lesson478
 
         public void Q7()
         {
-            //Napisz program, który dla liczby zadanej przez użytkownika narysuje diament 
-            //o krótszej przekątnej o długości wprowadzonej przez użytkownika
+            // Napisz program, który dla liczby zadanej przez użytkownika narysuje diament 
+            // o krótszej przekątnej o długości wprowadzonej przez użytkownika
 
             Console.WriteLine("Zad. 7");
 
@@ -148,10 +148,10 @@ namespace HomeworkWeek2Lesson478
         public void Q8()
         {
             //            Napisz program, który odwróci wprowadzony przez użytkownika ciąg znaków. Np.
-            //Testowe dane:
-            //Abcdefg
-            //Rezultat
-            //Gfedcba
+            // Testowe dane:
+            // Abcdefg
+            // Rezultat
+            // Gfedcba
 
             Console.WriteLine("Zad. 8");
 
@@ -168,7 +168,7 @@ namespace HomeworkWeek2Lesson478
 
         public void Q9()
         {
-            //Napisz program, który zamieni liczbę dziesiętną na liczbę binarną.
+            // Napisz program, który zamieni liczbę dziesiętną na liczbę binarną.
 
             Console.WriteLine("Zad. 9");
 
@@ -194,7 +194,7 @@ namespace HomeworkWeek2Lesson478
 
         public void Q10()
         {
-            //Napisz program, który znajdzie najmniejszą wspólną wielokrotność dla zadanych 2 liczb.
+            // Napisz program, który znajdzie najmniejszą wspólną wielokrotność dla zadanych 2 liczb.
 
             Console.WriteLine("Zad. 10");
 
@@ -209,12 +209,6 @@ namespace HomeworkWeek2Lesson478
         public int NWD(int a, int b)
         {
             int c;
-            //if (a < b)
-            //{
-            //    c = a;
-            //    a = b;
-            //    b = c;
-            //}
             while (b != 0)
             {
                 c = a % b;
