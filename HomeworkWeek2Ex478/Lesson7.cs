@@ -294,7 +294,7 @@ namespace HomeworkWeek2Lesson478
 
             Console.WriteLine("Zad. 12");
 
-            Console.WriteLine("Podaj ocenę: ");
+            Console.WriteLine("Podaj dzień tygodnia: ");
             Int32.TryParse(Console.ReadLine(), out int dayOfWeek);
 
             switch (dayOfWeek)
